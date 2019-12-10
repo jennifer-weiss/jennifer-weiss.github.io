@@ -5,7 +5,7 @@
  */
 
 body {
-  font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family: 'Gelasio', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
   color: #868e96;
 }
@@ -23,19 +23,19 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family: 'Gelasio', 'Gelasio', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-weight: 700;
   text-transform: uppercase;
   color: #343a40;
 }
 
 h1 {
-  font-size: 6rem;
-  line-height: 5.5rem;
+  font-size: 3.5rem;
+  line-height: 4rem;
 }
 
 h2 {
-  font-size: 3.5rem;
+  font-size: 3rem;
 }
 
 h3 {
@@ -50,8 +50,8 @@ p.lead {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-  font-size: 1.5rem;
+  font-family: 'Gelasio', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-size: 1.0rem;
 }
 
 .social-icons a {
@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color: #60adb7;
 }
 
 .dev-icons {
@@ -80,7 +80,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: #60adb7;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -171,22 +171,22 @@ section.resume-section .resume-item .resume-date {
 @media (min-width: 992px) {
   section.resume-section {
     padding-top: 3rem !important;
-    padding-bottom: 3rem !important;
+    padding-bottom: 1rem !important;
   }
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #60adb7 !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #60adb7 !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #60adb7;
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: #3c6f76;
 }
